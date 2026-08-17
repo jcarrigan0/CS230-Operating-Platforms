@@ -8,7 +8,7 @@ A: The Gaming Room is a game company that wants to develop a web based game base
 
 Q: What did you do particularly well in developing this documentation?
 
-A: I believe I provided an thorough operating platform evaluation based on the needs of the client. I identified the strengths and weaknesses of each platform and gave the client a clear picture of what each path forward would entail.
+A: I believe I provided a thorough operating platform evaluation based on the needs of the client. I identified the strengths and weaknesses of each platform and gave the client a clear picture of what each path forward would entail.
 
 Q: What about the process of working through a design document did you find helpful when developing the code?
 
